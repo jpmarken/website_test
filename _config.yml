@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "John Marken"
 title_separator          : "-"
 name                     : &name "John Marken"
@@ -27,7 +27,7 @@ author:
   name             : "John Marken"
   pronouns         : # example: "she/her"  
   bio              : "EMBO Postdoctoral Fellow"
-  location         : "Copenhagen, Denmark"
+  location         : "Section of Microbiology,"
   employer         : "University of Copenhagen"
   uri              : # URL
   email            : "john.marken@bio.ku.dk" 
